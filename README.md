@@ -1,2 +1,2 @@
 # ChristmasTree
-Christmas tree made with leds and couple of wires and arduino.
+Christmas tree made with LEDs, couple of wires and arduino.
